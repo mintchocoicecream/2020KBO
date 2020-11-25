@@ -1,2 +1,3 @@
 # 2020KBO
-Data analysis project
+## Data analysis project
+#### *Hyunjeong Seo, Eungkyung O, Seonghun Ahn*
