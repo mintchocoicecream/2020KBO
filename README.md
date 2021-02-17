@@ -1,6 +1,7 @@
 # **2020KBO**
 ## Data analysis project
 #### *Hyunjeong Seo, Eungkyung O, Seonghun Ahn*
+* 2020 한국프로야구 최종 순위 예측(프로젝트 진행: 20년 7월 24일 ~ 31일 진행)
 
 ## 데이터 크롤링
 - 타겟사이트 : 롯데자이언츠 공식홈페이지, KBO 공식홈페이지, KBReport
